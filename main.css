@@ -38,6 +38,11 @@ body {
 	background-color: #794f45;
 }
 
+.fullscreen__three {
+	background-color: coral;
+}
+
+
 .fullscreen__bg {
 	background: url(img/bg.jpg) center / cover no-repeat fixed;
 }
